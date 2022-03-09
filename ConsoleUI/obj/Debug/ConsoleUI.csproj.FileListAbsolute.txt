@@ -1,0 +1,10 @@
+D:\AspNetApps\Interfaces_D1\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\AspNetApps\Interfaces_D1\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\AspNetApps\Interfaces_D1\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\AspNetApps\Interfaces_D1\ConsoleUI\bin\Debug\DemoLibrary.dll
+D:\AspNetApps\Interfaces_D1\ConsoleUI\bin\Debug\DemoLibrary.pdb
+D:\AspNetApps\Interfaces_D1\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+D:\AspNetApps\Interfaces_D1\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\AspNetApps\Interfaces_D1\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+D:\AspNetApps\Interfaces_D1\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\AspNetApps\Interfaces_D1\ConsoleUI\obj\Debug\ConsoleUI.pdb

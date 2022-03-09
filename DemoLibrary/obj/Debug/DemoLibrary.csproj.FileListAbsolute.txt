@@ -1,0 +1,6 @@
+D:\AspNetApps\Interfaces_D1\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\AspNetApps\Interfaces_D1\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\AspNetApps\Interfaces_D1\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+D:\AspNetApps\Interfaces_D1\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\AspNetApps\Interfaces_D1\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\AspNetApps\Interfaces_D1\DemoLibrary\obj\Debug\DemoLibrary.pdb
